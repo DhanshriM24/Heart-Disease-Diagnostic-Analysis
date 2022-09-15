@@ -27,6 +27,10 @@ Python
 ## Tools 🛠
 Jupyter Notebook, MS
 Excel, MS Power BI
+## Some Insight
+![Dashboard](https://user-images.githubusercontent.com/91377756/190400652-3b8f47eb-dce8-4b16-8af5-e143fb1c5918.png)
+
+
 ## Conclusion 💡
 1.From the overall population, 46% people having heart disease & 56% people having no heart disease<br>
 2.Elder Age People are most affected by Heart Disease & Middle Age People are mostly FREE from any kind 
